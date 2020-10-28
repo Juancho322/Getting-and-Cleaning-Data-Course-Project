@@ -3,7 +3,7 @@
 # **"CODEBOOK"**
 
 ## 1. Specifications
-The following section details the *columns* that are part of the analysis file **Tidy_DataSet.txt**.
+The following section details the *columns* that are part of the analysis file **Tidy_DataSet.txt**
 
 ### 1.1. Subject
 It is the identification of who participates in the activity. Usually first and last name.
