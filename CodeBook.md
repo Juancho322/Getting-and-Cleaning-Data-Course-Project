@@ -1,15 +1,14 @@
 # **GETTING AND CLEANING DATA COURSE PROJECT**
 
 # **"CODEBOOK"**
-**************************************************************
 
-## Specifications
+## 1. Specifications
 The following section details the *columns* that are part of the analysis file **Tidy_DataSet.txt**.
 
-### 1. Subject
+### 1.1. Subject
 It is the identification of who participates in the activity. Usually first and last name.
 
-### 2. Activity
+### 2.1. Activity
 It is the set of activities carried out by the participant, which will be subject to measurement with certain **parameters**.
 These are:
 
@@ -20,7 +19,7 @@ These are:
                 WALKING_DOWNSTAIRS
                 WALKING_UPSTAIRS
 
-### 3. Parameters
+### 3.1. Parameters
 These are measurements of each of the activities. Which are: **time**, **frequency** and **angular**.
 
 **Time:**
@@ -75,7 +74,7 @@ The angular values, which are of this type:
 
 Have the component `gravityMean`. It is because the accelerometer determines the aceleration caused by gravity acting on the body.
 
-## References
+## 2. References
 • Accelerometer and gyroscope:
   [Sensors-definition](https://www.gsmarena.com/glosary.php3?term=sensors).
 
