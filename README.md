@@ -24,12 +24,12 @@ relevant information. That is, it explains the work done by `all files` mentione
 ## 2. Scheme
 To summarize graphically in the joint work of the analysis files, we have:
 
-                                   Work repository       → → → → → → → → → → →  
-                                          ↓                                                ↓
-                                          ↓                                                ↓
-                                          ↓                                                ↓
-                                   UCI HAR Dataset → →  run_analysis.R   → → → →  CodeBook.md
-                                                                ↓                          ↑
-                                                                ↓                          ↑
-                                                         Tidy_DataSet.txt   → → → → → 
+                 Work repository  → → → → → → → → → → → → →  → →
+                        ↓                                                ↓
+                        ↓                                                ↓
+                        ↓                                                ↓
+                 UCI HAR Dataset → →  run_analysis.R   → → → →  CodeBook.md
+                                              ↓                          ↑
+                                              ↓                          ↑
+                                      Tidy_DataSet.txt  → → → → → → →
 
