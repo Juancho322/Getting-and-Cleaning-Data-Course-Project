@@ -3,7 +3,7 @@
 ## 1. Analysis Files
    To carry out this project the following **analysis files** are require:
 
-#### ♦[Work repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
+#### ♦ [Work repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
    Provides technical and informative content for the execution of the project; as a brochure or s set of references.
 
 #### ♦ [UCI HAR Dataset](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
@@ -24,12 +24,12 @@
 ## 2. Scheme
    To summarize graphically in the joint work of the **analysis files**, we have:
 
-              Work repository  → → → → → → → → → → → → → → →
-                     ↓                                              ↓
-                     ↓                                              ↓
-                     ↓                                              ↓
-              UCI HAR Dataset → →  run_analysis.R   → → → →  CodeBook.md
-                                            ↓                       ↑
-                                            ↓                       ↑
-                                   Tidy_DataSet.txt → → → → → → →
+          Work repository  → → → → → → → → → → → → → → →
+                 ↓                                              
+                 ↓                                              
+                 ↓                                              
+          UCI HAR Dataset → →  run_analysis.R   → → → →  CodeBook.md
+                                        ↓                       
+                                        ↓                       
+                               Tidy_DataSet.txt → → → → → → →
 
